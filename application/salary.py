@@ -1,2 +1,2 @@
 def calculate_salary():
-    print('Функция calculate_salary из пакета application')
+    print('Функция calculate_salary из модуля salary.py пакета application')

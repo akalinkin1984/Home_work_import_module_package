@@ -1,2 +1,2 @@
 def get_employees():
-    print('Функция get_employees из пакета application.db')
+    print('Функция get_employees из модуля people.py пакета application.db')
